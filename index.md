@@ -1,12 +1,8 @@
-# H1
-PROGRAMMING
-### H3
+PROGRAMMING:
 (https://replit.com/@richparker718/cohort-3-summer-work-richparker718#programming/5/Fib.java "FIBONACCI")
-# H1
-DATA STRUCTURES
-### H3
+
+DATA STRUCTURES:
 (https://replit.com/@richparker718/cohort-3-summer-work-richparker718#ds/arraylists/AlPractice.java "ARRAYLIST PRACTICE")
-# H1
-METHODS
-### H3
+
+METHODS:
 (https://replit.com/@richparker718/cohort-3-summer-work-richparker718#methods/brickwallAnswer.java "MAKING A BRICKWALL")
